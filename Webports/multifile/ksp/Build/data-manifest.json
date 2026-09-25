@@ -1,0 +1,46 @@
+{
+  "size": 412589720,
+  "sha256": "e3fd19183688cf12f460e92edb5fd5e205bf277419aa42b133cbbf1b0b066b76",
+  "parts": [
+    {
+      "url": "Build/data-e3fd19183688/part-000.bin",
+      "size": 41943040
+    },
+    {
+      "url": "Build/data-e3fd19183688/part-001.bin",
+      "size": 41943040
+    },
+    {
+      "url": "Build/data-e3fd19183688/part-002.bin",
+      "size": 41943040
+    },
+    {
+      "url": "Build/data-e3fd19183688/part-003.bin",
+      "size": 41943040
+    },
+    {
+      "url": "Build/data-e3fd19183688/part-004.bin",
+      "size": 41943040
+    },
+    {
+      "url": "Build/data-e3fd19183688/part-005.bin",
+      "size": 41943040
+    },
+    {
+      "url": "Build/data-e3fd19183688/part-006.bin",
+      "size": 41943040
+    },
+    {
+      "url": "Build/data-e3fd19183688/part-007.bin",
+      "size": 41943040
+    },
+    {
+      "url": "Build/data-e3fd19183688/part-008.bin",
+      "size": 41943040
+    },
+    {
+      "url": "Build/data-e3fd19183688/part-009.bin",
+      "size": 35102360
+    }
+  ]
+}
